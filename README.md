@@ -36,6 +36,8 @@ Where:
 - `<Domain>` is either `source`, `target`, or `raw` (only for test and validation sets on the source domain).
 - `<Byte size>` is one of the following values: 10, 32, 64, 128, 256, 512, 1024. If this part is omitted, it means all bytes are taken.
 
+For example: train_source_256.feather, test_raw_256.feather
+
 ### concat_dataset
 
 This folder contains the data that we use to run with other domain adaptation methods in the `tllib` [library](https://github.com/thuml/Transfer-Learning-Library). This data is pre-exported to images from a set of 256 bytes.
