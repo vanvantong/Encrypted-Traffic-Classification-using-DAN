@@ -4,8 +4,6 @@
 ## Abstract
 This dataset contains the payload data of 19,180 network flows extracted from two articles: [Enhancing Encrypted Traffic Classification with Deep Adaptation Networks](https://doi.org/10.1109/lcn58197.2023.10223333) and Encrypted Traffic Classification through Deep Domain Adaptation Network with Smooth Characteristic Function. The network flows are classified into three categories: E-commerce, Video on-demand, and Interactive data, which are labeled as 0, 1, and 2, respectively. These categories are derived from 10 different applications, such as Ebay, Amazon, Alibaba, Facebook, Youtube, Tiki, Shopee, Thegioididong, Google Hangout Chat, and Google Hangout VoIP.
 
-## Keywords
-payloads, packet, network, traffic, classification, capture.
 
 ## Data collection
 Our DAQUIC dataset consists of data collected at two different time intervals. The first interval spans three weeks in March 2018 and includes Youtube, Google Hangout Chat (Chat) and Google Hangout VoIP (VoIP). The second interval covers March to April 2023 and includes video streaming of Facebook (or FB for short) and e-commerce websites in Southeast Asia such as Shopee, Tiki, Thegioididong, Ebay, Amazon and Alibaba. We consider various types of applications such as Chat, VoIP, video streaming and e-commerce websites. We use multiple machines to deploy data capture of each application, each machine will use [selenium](https://www.selenium.dev/) for automation, [tshark](https://tshark.dev/) to capture data and save it in pcap format.
