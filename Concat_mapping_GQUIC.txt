@@ -1,6 +1,2 @@
-Label: {'FileTransfer': 0, 'Music': 1, 'VoIP': 2, 'Youtube': 3, 'alibaba': 4, 'amazon': 5, 'ebay': 6, 'facebook': 7, 'shopee': 8, 'thegioididong': 9, 'tiki': 10, 'youtubelive': 11}
-Label: {'FileTransfer': 0, 'Music': 1, 'VoIP': 2, 'Youtube': 3, 'alibaba': 4, 'amazon': 5, 'docs': 6, 'ebay': 7, 'facebook': 8, 'shopee': 9, 'thegioididong': 10, 'tiki': 11, 'youtube': 12, 'youtubelive': 13}
-Label: {'FileTransfer': 0, 'Music': 1, 'VoIP': 2, 'Youtube': 3, 'alibaba': 4, 'amazon': 5, 'docs': 6, 'ebay': 7, 'facebook': 8, 'shopee': 9, 'thegioididong': 10, 'tiki': 11, 'youtube': 12, 'youtubelive': 13}
-Label: {'FileTransfer': 0, 'Music': 1, 'VoIP': 2, 'Youtube': 3, 'alibaba': 4, 'amazon': 5, 'docs': 6, 'drive': 7, 'ebay': 8, 'facebook': 9, 'photo': 10, 'shopee': 11, 'thegioididong': 12, 'tiki': 13, 'tiktok': 14, 'youtube': 15, 'youtubelive': 16}
 Label: {'FileTransfer': 0, 'Music': 1, 'VoIP': 2, 'Youtube': 3, 'alibaba': 4, 'amazon': 5, 'docs': 6, 'drive': 7, 'ebay': 8, 'facebook': 9, 'photo': 10, 'shopee': 11, 'thegioididong': 12, 'tiki': 13, 'tiktok': 14, 'youtube': 15, 'youtubelive': 16}
 Label: {'FileTransfer': 0, 'GoogleHangout_Chat': 1, 'Music': 2, 'VoIP': 3, 'Youtube': 4, 'alibaba': 5, 'amazon': 6, 'docs': 7, 'drive': 8, 'ebay': 9, 'facebook': 10, 'photo': 11, 'shopee': 12, 'thegioididong': 13, 'tiki': 14, 'tiktok': 15, 'youtube': 16, 'youtubelive': 17}
